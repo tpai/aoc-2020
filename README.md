@@ -1,4 +1,4 @@
-Advent Of Code 2020 ⭐
+Advent of Code 2020 ⭐
 ===
 
 Record my challenge of AOC 2020 and some thoughts for solutions.
