@@ -1,7 +1,7 @@
 Advent of Code 2020 ⭐
 ===
 
-Record my challenge of AOC 2020 and some thoughts for solutions.
+My challenge record of AOC 2020 and some thoughts for solutions.
 
 ## Usage
 
