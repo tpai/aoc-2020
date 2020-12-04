@@ -1,5 +1,5 @@
 /**
- * key: clean the data
+ * key: clean data
  */
 
 const fs = require("fs");
